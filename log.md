@@ -16,5 +16,10 @@ August -Friday 26th
 12:00 I had to leave and get ready for 2nd interview
 
 
-
-Total hours: 6hours and 36 mins.
+September -Monday 5th
+08:00 - Started Full Responsive Ecommerce Course
+09:00 - Coding along
+10:00 - took water break and snack break
+10:15 - continued with the video
+12:30 - Took lunch
+Total hours: 10hours and 51 mins.
