@@ -80,7 +80,7 @@ body {
 
 #navbar li a:hover,
 #navbar li a.active {
-    color: #088178;
+    color: #e6cf50;
 }
 
 #navbar li a.active::after,
@@ -88,8 +88,48 @@ body {
     content: "";
     width: 30%;
     height: 2px;
-    background: #088178;
+    background: #e6cf50;
     position: absolute;
     bottom: -4px;
     left: 20px;
+}
+
+
+
+
+#hero {
+    background-image: url("img/background.png");
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#hero h4{
+    padding-bottom: 15px
+}
+
+#hero h1{
+    color: #e6cf50;
+}
+
+#hero button {
+    background-image: url("img/neutral.png");
+    /* background-color: transparent; */
+    color: #111110;
+    border: 0;
+    padding: 20px 100px 20px 85px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+    /* padding-top: 100px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    padding-left: 30px; */
 }
